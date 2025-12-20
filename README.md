@@ -55,7 +55,7 @@ BLEACH-webproject/
 - MDN Web Docs (HTML, CSS, JavaScript references)   
 - chatgpt.com -> for creating the color shades required for the glowing effect of different characters
 - https://vsbattles.fandom.com/wiki/VS_Battles_Wiki -> to get the images of all the characters used
-- gemini.google.com -> to generate images used in the website
+- [gemini.google.com](https://gemini.google.com/app) -> to generate images used in the website
 - https://www.adobe.com/express/feature/image/remove-background -> to remove the background of the images
 - youtube.com -> to collect the 'bankai' audio files of individual characters
 - zedge.com -> to collect the 'bankai' audio files of individual characters
