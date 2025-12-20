@@ -53,12 +53,12 @@ BLEACH-webproject/
 ## 📚 Learning Sources
 - Paid course on Udemy on the topics - HTML, CSS animations, and JavaScript  
 - MDN Web Docs (HTML, CSS, JavaScript references)   
-- chatgpt.com -> for creating the color shades required for the glowing effect of different characters
+- [chatgpt.com](https://chatgpt.com/) -> for creating the color shades required for the glowing effect of different characters
 - https://vsbattles.fandom.com/wiki/VS_Battles_Wiki -> to get the images of all the characters used
 - [gemini.google.com](https://gemini.google.com/app) -> to generate images used in the website
 - https://www.adobe.com/express/feature/image/remove-background -> to remove the background of the images
-- youtube.com -> to collect the 'bankai' audio files of individual characters
-- zedge.com -> to collect the 'bankai' audio files of individual characters
+- https://www.youtube.com/ -> to collect the 'bankai' audio files of individual characters
+- https://www.zedge.net/ -> to collect the 'bankai' audio files of individual characters
 - https://www.myinstants.com/ -> to collect the 'bankai' audio files of individual characters
 
 ---
