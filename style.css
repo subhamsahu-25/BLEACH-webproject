@@ -64,17 +64,85 @@ body
 }
 @media (max-width: 768px) 
 {
-   .grid {
+   .grid 
+  {
       grid-template-columns: 1fr;
       gap: 15px;
       padding: 10px;
+   } 
+   .card 
+  {
+      width: 100%;
+      padding: 15px;
    }
-   .card {
-      width: 90%;
+   .card-content 
+  {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
    }
-   .navbar {
+   .card img 
+  {
+      width: 200px;
+      height: 280px;
+      margin-bottom: 15px;
+   } 
+   .description 
+  {
+      width: 100%;
+   } 
+   .description h3 
+  {
+      font-size: 18px;
+      text-align: center;
+   } 
+   .description ul 
+  {
+      text-align: left;
+      padding-left: 30px;
+   } 
+   .navbar 
+  {
       flex-direction: column;
       gap: 10px;
+      padding: 15px;
+   }
+   .websitename h2 
+  {
+      font-size: 18px;
+      margin: 0;
+   }
+   .contact > button,
+   .signup > button,
+   .signin > button 
+  {
+      width: 200px;
+      height: 45px;
+      font-size: 14px;
+   }
+   .floatingparticle1,
+   .floatingparticle2,
+   .floatingparticle3,
+   .floatingparticle4,
+   .floatingparticle5,
+   .floatingparticle6,
+   .floatingparticle7,
+   .floatingparticle8,
+  {
+      display: none;
+   }
+   #charBleach 
+  {
+      max-width: 90%;
+      max-height: 70%;
+   }
+   .footer-content 
+  {
+      flex-direction: column;
+      gap: 20px;
+      font-size: 13px;
+      padding: 20px;
+      text-align: center;
    }
 }
 .card 
@@ -400,3 +468,4 @@ body
     transform: translateX(-500px);
   }
 }
+
