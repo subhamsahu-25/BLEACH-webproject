@@ -1,3 +1,12 @@
+* 
+{
+  box-sizing: border-box;
+}
+html, body 
+{
+  overflow-x: hidden;
+  max-width: 100%;
+}
 body 
 {
   background-color: #0f172a;
@@ -64,6 +73,16 @@ body
 }
 @media (max-width: 768px) 
 {
+  body 
+  {
+      overflow-x: hidden;
+   } 
+   .grid 
+  {
+      width: 100%;
+      padding: 10px;
+      overflow-x: hidden;
+   }
    .grid 
   {
       grid-template-columns: 1fr;
@@ -74,6 +93,11 @@ body
   {
       width: 100%;
       padding: 15px;
+   }
+  .card 
+  {
+      max-width: 100%;
+      margin: 0 auto;
    }
    .card-content 
   {
@@ -127,9 +151,11 @@ body
    .floatingparticle5,
    .floatingparticle6,
    .floatingparticle7,
-   .floatingparticle8,
+   .floatingparticle8
   {
-      display: none;
+      display: none !important;
+      visibility: hidden !important;
+      animation: none !important;
    }
    #charBleach 
   {
@@ -468,4 +494,5 @@ body
     transform: translateX(-500px);
   }
 }
+
 
