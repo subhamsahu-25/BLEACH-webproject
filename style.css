@@ -452,10 +452,10 @@ body
     transform: translateY(0);
   }
   50% {
-    transform: translateY(-400px);
+    transform: translateY(-500px);
   }
   100% {
-    transform: translateY(400px);
+    transform: translateY(500px);
   }
 }
 @keyframes floatAnimationY27
@@ -464,10 +464,10 @@ body
     transform: translateY(0);
   }
   50% {
-    transform: translateY(400px);
+    transform: translateY(500px);
   }
   100% {
-    transform: translateY(-400px);
+    transform: translateY(-500px);
   }
 }
 @keyframes floatAnimationX35
@@ -476,10 +476,10 @@ body
     transform: translateX(0);
   }
   50% {
-    transform: translateX(-500px);
+    transform: translateX(-600px);
   }
   100% {
-    transform: translateX(500px);
+    transform: translateX(600px);
   }
 }
 @keyframes floatAnimationX46
@@ -488,11 +488,12 @@ body
     transform: translateX(0);
   }
   50% {
-    transform: translateX(500px);
+    transform: translateX(600px);
   }
   100% {
-    transform: translateX(-500px);
+    transform: translateX(-600px);
   }
 }
+
 
 
