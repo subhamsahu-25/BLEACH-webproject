@@ -1,5 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
-   function visible(imageBankai, audioBankai, reishiColor1, reishiColor2, reishiColor3) 
+function visible(imageBankai, audioBankai, reishiColor1, reishiColor2, reishiColor3) 
    {
       document.getElementById('reveal').style.display = 'flex';
       const charBleach = document.getElementById('charBleach');
@@ -16,4 +15,3 @@ document.addEventListener("DOMContentLoaded", () => {
    {
       document.getElementById('reveal').style.display = 'none';
    }
-})
